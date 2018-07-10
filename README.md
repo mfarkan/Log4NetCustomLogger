@@ -2,7 +2,7 @@
 
 I know this library almost doing nothing but it's helping me something ;)
 
-[Log4net.config](https://github.com/mfarkan/Log4NetCustomLogger/blob/master/Log4NetCustomLogger/log4net.config)
+[Log4net config file](https://github.com/mfarkan/Log4NetCustomLogger/blob/master/Log4NetCustomLogger/log4net.config)
 
 It has ERROR,DEBUG,INFO,WARN level logging.
 
