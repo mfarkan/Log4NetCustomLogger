@@ -11,6 +11,7 @@ namespace CustomLog4netLibrary
         void Log(string Message);
         void Log(string Message, LogType LogType);
         void Log(string Message, LogType LogType, Exception exception);
+        void Log(string LogName, string Message, LogType LogType, Exception exception);
     }
     public enum LogType
     {
